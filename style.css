@@ -41,3 +41,9 @@ h1{font-size: 50px;}
             border-radius: 5px;
             padding: 10px;}
             .radius{border-radius: 5px;}
+            .join{text-decoration: none;
+                color: white;
+                font-weight: 700px;
+                background-image: linear-gradient(orangered, black);
+                border-radius: 5px;
+                padding: 10px;}
