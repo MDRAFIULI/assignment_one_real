@@ -14,3 +14,22 @@ h1{font-size: 50px;}
     border-radius: 5px;
     padding: 10px;
 }
+.mission{box-shadow: 5px 5px 20px rosybrown;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;width: 33%;
+    }
+    .vission{box-shadow: 5px 5px 20px rgb(240, 9, 9);
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 10px;
+        border-radius: 10px;width: 33%
+        }
+        .goal{box-shadow: 5px 5px 20px crimson;
+            margin-left: 5%;
+            margin-right: 5%;
+            padding-left: 10px;
+            border-radius: 10px;width: 33%
+        }
+        .adjust{width: 30%;}
